@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class primitiveinput {
+public class sumof2num {
     public static void main(String[] args){
         //int
         System.out.println("Enter your 1st numbers");
